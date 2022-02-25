@@ -1,0 +1,6 @@
+RUN	simulations.CodeReuseWithObjects	codereusewithobjects	1645612043512	 	3.5.0
+USER	Code reuse	START	1645612044326
+REQUEST		Get all data - 1st call	1645612044338	1645612045249	OK	 
+REQUEST		Get specific status code	1645612050270	1645612050490	OK	 
+REQUEST		Get all data - 1st call	1645612055495	1645612055752	OK	 
+USER	Code reuse	END	1645612055754

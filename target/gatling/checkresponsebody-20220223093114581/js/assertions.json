@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.CheckResponseBody",
+  "simulationId": "checkresponsebody",
+  "start": 1645608674581,
+  "description": "",
+  "scenarios": ["Check JSON path"],
+  "assertions": [
+
+  ]
+}

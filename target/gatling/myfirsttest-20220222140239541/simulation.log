@@ -1,0 +1,4 @@
+RUN	MyFirstTest	myfirsttest	1645538559541	 	3.5.0
+USER	My First Test	START	1645538560459
+REQUEST		Get All Games	1645538560473	1645538560475	KO	j.n.ConnectException: finishConnect(..) failed: Connection refused
+USER	My First Test	END	1645538560478

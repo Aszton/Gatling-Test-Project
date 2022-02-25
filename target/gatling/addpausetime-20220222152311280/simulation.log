@@ -1,0 +1,6 @@
+RUN	simulations.AddPauseTime	addpausetime	1645543391280	 	3.5.0
+USER	This is all scenario	START	1645543392271
+REQUEST		Get all data - 1st call	1645543392288	1645543393007	OK	 
+REQUEST		Get specific status code	1645543398025	1645543398169	OK	 
+REQUEST		Get all data - 2nd call	1645543418041	1645543418379	OK	 
+USER	This is all scenario	END	1645543421386

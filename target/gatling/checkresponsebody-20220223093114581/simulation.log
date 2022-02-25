@@ -1,0 +1,4 @@
+RUN	simulations.CheckResponseBody	checkresponsebody	1645608674581	 	3.5.0
+USER	Check JSON path	START	1645608675189
+REQUEST		get all data	1645608675201	1645608676043	OK	 
+USER	Check JSON path	END	1645608676076

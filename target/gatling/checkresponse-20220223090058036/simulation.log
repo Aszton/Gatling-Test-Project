@@ -1,0 +1,6 @@
+RUN	simulations.CheckResponse	checkresponse	1645606858036	 	3.5.0
+USER	This is all scenario	START	1645606858840
+REQUEST		Get all data - 1st call	1645606858853	1645606859452	OK	 
+REQUEST		Get specific status code	1645606864463	1645606864802	OK	 
+REQUEST		Get all data - 2nd call	1645606869183	1645606869511	OK	 
+USER	This is all scenario	END	1645606872519

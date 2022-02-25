@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.CheckResponse",
+  "simulationId": "checkresponse",
+  "start": 1645606858036,
+  "description": "",
+  "scenarios": ["This is all scenario"],
+  "assertions": [
+
+  ]
+}
